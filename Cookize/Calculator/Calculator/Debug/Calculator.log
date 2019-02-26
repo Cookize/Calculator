@@ -1,4 +1,3 @@
-﻿  pch.cpp
-  Calculator.cpp
-c:\cookize\files\software engineering\workspace\calculator\cookize\calculator\calculator\calculator.cpp(75): warning C4018: “<”: 有符号/无符号不匹配
-  Calculator.vcxproj -> C:\Cookize\Files\Software Engineering\workspace\Calculator\Cookize\Calculator\Debug\Calculator.exe
+﻿  Calculator.cpp
+d:\files\software engineering\workspace\calculator\cookize\calculator\calculator\calculator.cpp(88): warning C4018: “<”: 有符号/无符号不匹配
+  Calculator.vcxproj -> D:\Files\Software Engineering\workspace\Calculator\Cookize\Calculator\Debug\Calculator.exe
