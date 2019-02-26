@@ -21,7 +21,7 @@ namespace CalculatorUnitTest
 
 		}
 
-		TEST
+		TEST_
 
 	};
 }
